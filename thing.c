@@ -4,7 +4,7 @@
 
 struct {
   char     revision[16];
-  uint16_t dingleberry;
+  uint16_t dingleberries;
 } registers = {"$Rev::       $:", 69};
 
 
